@@ -241,7 +241,7 @@ payload_ngrok
 checkfound
 }
 
-camphish() {
+Acamp() {
 if [[ -e sendlink ]]; then
 rm -rf sendlink
 fi
@@ -311,4 +311,4 @@ checkfound
 
 banner
 dependencies
-camphish
+Acamp
