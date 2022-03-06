@@ -3,13 +3,13 @@ ACamPis techniques to take cam shots of target's phone front camera or PC webcam
 
 INSTALLATION:
 
-git clone https://github.com/Neo-spywolf/ACAMP
-cd ACAMP
-bash acam.sh
+$ git clone https://github.com/Neo-spywolf/ACAMP
+$ cd ACAMP
+$ bash acam.sh
 
 
 FEATURES:
 
-Festival Wishing
-Live YouTube TV
-Online Meeting
+# Festival Wishing
+# Live YouTube TV
+# Online Meeting
